@@ -1,7 +1,7 @@
 package detrevid.predictionio.loadforecasting
 
-import io.prediction.controller.PPreparator
-import io.prediction.controller.SanityCheck
+import org.apache.predictionio.controller.PPreparator
+import org.apache.predictionio.controller.SanityCheck
 
 import grizzled.slf4j.Logger
 import org.apache.spark.SparkContext

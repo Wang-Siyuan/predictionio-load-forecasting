@@ -1,6 +1,6 @@
 package detrevid.predictionio.loadforecasting
 
-import io.prediction.controller.{Engine, EngineFactory}
+import org.apache.predictionio.controller.{Engine, EngineFactory}
 
 class Query(
   val circuitId: Int,
